@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samriddhi Jaiswal</h1>
 <h3 align="center">A Machine Learning enthusiast from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<img align="right" alt="coding" width="400" src="https://github.com/sam-riddhi/Sam-riddhi/assets/120332474/dd2648ce-4348-4838-9f4d-0bab8126e5d6
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-riddhi&label=Profile%20views&color=0e75b6&style=flat" alt="sam-riddhi" /> </p>
 
